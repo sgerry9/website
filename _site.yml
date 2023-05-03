@@ -3,6 +3,7 @@ title: "Sam Gerry"
 description: |
   Sam Gerry
 output_dir: "docs"
+theme: sgerry9_website.css
 navbar:
   right:
     - text: "Home"
